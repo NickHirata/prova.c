@@ -75,5 +75,7 @@ int main (){
 		}
 		
 	}
+	
+	
 	system("pause");
 }
